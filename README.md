@@ -42,6 +42,11 @@ sequenceDiagram
     Server-->>Client: Disconnects from server
 ```
 
+## Video
+
+[video.webm](https://user-images.githubusercontent.com/68151686/229355908-9a9165a2-d4f9-43a1-83b6-b1c73260fe24.webm)
+
+
 ## Functionality
 
 - Client connects to the server and provides a nickname.
