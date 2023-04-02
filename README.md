@@ -53,7 +53,7 @@ sequenceDiagram
 - Client sends a private message to a specific client by typing `@<nickname> <message>`.
 - Server routes the private message to the intended recipient.
 - Intended recipient receives the private message from the server and displays it in their chat room interface.
-- Client disconnects from the server using the `/q` command.
+- Client disconnects from the server using the `\q` command.
 
 ## Starting the chat room
 
